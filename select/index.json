@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "angel wings",
+  "base_artist": "Madison Beer",
+  "createdAt": "2026-03-15T14:52:35.895222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel Wings (feat. Avianna Acid)",
+      "artist": "Mike Ault",
+      "has_synced": true,
+      "path": "select/01_Angel_Wings_(feat._Avianna_Acid)_Mike_Ault.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Canyon City",
+      "has_synced": true,
+      "path": "select/02_Angel_Wings_Canyon_City.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Logan Michael",
+      "has_synced": true,
+      "path": "select/03_Angel_Wings_Logan_Michael.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Logan Michael",
+      "has_synced": false,
+      "path": "select/04_Angel_Wings_Logan_Michael.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Mike Ault",
+      "has_synced": true,
+      "path": "select/05_Angel_Wings_Mike_Ault.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Rosaline",
+      "has_synced": false,
+      "path": "select/06_Angel_Wings_Rosaline.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "tears in my angel wings",
+      "artist": "convolk",
+      "has_synced": false,
+      "path": "select/07_tears_in_my_angel_wings_convolk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Quando Rondo",
+      "has_synced": true,
+      "path": "select/08_Angel_Wings_Quando_Rondo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Crash of Angel Wings",
+      "artist": "The Waterboys",
+      "has_synced": true,
+      "path": "select/09_The_Crash_of_Angel_Wings_The_Waterboys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Kim Cesarion",
+      "has_synced": true,
+      "path": "select/10_Angel_Wings_Kim_Cesarion.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Frank Carter & The Rattlesnakes",
+      "has_synced": true,
+      "path": "select/11_Angel_Wings_Frank_Carter_&_The_Rattlesnakes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Big Are Angel Wings",
+      "artist": "Ashton Shepherd",
+      "has_synced": false,
+      "path": "select/12_How_Big_Are_Angel_Wings_Ashton_Shepherd.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Mike Ault feat. Avianna Acid",
+      "has_synced": false,
+      "path": "select/13_Angel_Wings_Mike_Ault_feat._Avianna_Acid.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Strife",
+      "has_synced": true,
+      "path": "select/14_Angel_Wings_Strife.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Angel Wings",
+      "artist": "Mike Ault feat. Avianna Acid",
+      "has_synced": true,
+      "path": "select/15_Angel_Wings_Mike_Ault_feat._Avianna_Acid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "angel wings",
+      "artist": "Madison Beer",
+      "has_synced": false,
+      "path": "select/pl_01_angel_wings_Madison_Beer.txt"
+    }
+  ]
+}
